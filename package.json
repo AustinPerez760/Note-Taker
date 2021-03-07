@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/AustinPerez760/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "uuid": "^8.3.2"
   }
 }
